@@ -1,1 +1,1 @@
-Dragon slayer mini text game practicing while loop.
+Dragon slayer mini text game practicing while loop. (https://jwhear93.github.io/dragon-slayer/)
