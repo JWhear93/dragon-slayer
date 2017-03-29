@@ -29,4 +29,4 @@ while (slaying) {
         slaying = false;
     }
     
-}
+};
