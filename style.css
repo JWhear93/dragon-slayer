@@ -1,0 +1,49 @@
+body {
+	color: green;
+	background: black;
+	line-height: 1.3em;
+	width: 600px;
+	font-size: 20px;
+}
+
+body div {
+	padding: 10px 0;
+}
+
+#b1 {
+	border: 1px solid green;
+	width: 90px;
+	display: block;
+	position: relative;
+	left: 30%;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+#b1 a {
+	padding: 10px;
+}
+
+#area {
+	border: 1px double green;
+	width: 220px;
+	padding: 30px;
+	display: block;
+	position: absolute;
+	left: 40%;
+	top: 20%;
+}
+
+#area p {
+	display: inline-block;
+	margin: 0;
+}
+
+#myLog {
+	display: block;
+	position: relative;
+	left: 5%;
+}
